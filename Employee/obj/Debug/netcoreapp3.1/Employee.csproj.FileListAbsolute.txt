@@ -1,0 +1,14 @@
+D:\University\LaboratoryOOP2\Employee\bin\Debug\netcoreapp3.1\Employee.exe
+D:\University\LaboratoryOOP2\Employee\bin\Debug\netcoreapp3.1\Employee.deps.json
+D:\University\LaboratoryOOP2\Employee\bin\Debug\netcoreapp3.1\Employee.runtimeconfig.json
+D:\University\LaboratoryOOP2\Employee\bin\Debug\netcoreapp3.1\Employee.runtimeconfig.dev.json
+D:\University\LaboratoryOOP2\Employee\bin\Debug\netcoreapp3.1\Employee.dll
+D:\University\LaboratoryOOP2\Employee\bin\Debug\netcoreapp3.1\Employee.pdb
+D:\University\LaboratoryOOP2\Employee\obj\Debug\netcoreapp3.1\Employee.csproj.AssemblyReference.cache
+D:\University\LaboratoryOOP2\Employee\obj\Debug\netcoreapp3.1\Employee.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\LaboratoryOOP2\Employee\obj\Debug\netcoreapp3.1\Employee.AssemblyInfoInputs.cache
+D:\University\LaboratoryOOP2\Employee\obj\Debug\netcoreapp3.1\Employee.AssemblyInfo.cs
+D:\University\LaboratoryOOP2\Employee\obj\Debug\netcoreapp3.1\Employee.csproj.CoreCompileInputs.cache
+D:\University\LaboratoryOOP2\Employee\obj\Debug\netcoreapp3.1\Employee.dll
+D:\University\LaboratoryOOP2\Employee\obj\Debug\netcoreapp3.1\Employee.pdb
+D:\University\LaboratoryOOP2\Employee\obj\Debug\netcoreapp3.1\Employee.genruntimeconfig.cache

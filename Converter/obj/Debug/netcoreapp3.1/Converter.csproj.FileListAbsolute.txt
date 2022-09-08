@@ -1,0 +1,14 @@
+D:\University\LaboratoryOOP2\Converter\bin\Debug\netcoreapp3.1\Converter.exe
+D:\University\LaboratoryOOP2\Converter\bin\Debug\netcoreapp3.1\Converter.deps.json
+D:\University\LaboratoryOOP2\Converter\bin\Debug\netcoreapp3.1\Converter.runtimeconfig.json
+D:\University\LaboratoryOOP2\Converter\bin\Debug\netcoreapp3.1\Converter.runtimeconfig.dev.json
+D:\University\LaboratoryOOP2\Converter\bin\Debug\netcoreapp3.1\Converter.dll
+D:\University\LaboratoryOOP2\Converter\bin\Debug\netcoreapp3.1\Converter.pdb
+D:\University\LaboratoryOOP2\Converter\obj\Debug\netcoreapp3.1\Converter.csproj.AssemblyReference.cache
+D:\University\LaboratoryOOP2\Converter\obj\Debug\netcoreapp3.1\Converter.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\LaboratoryOOP2\Converter\obj\Debug\netcoreapp3.1\Converter.AssemblyInfoInputs.cache
+D:\University\LaboratoryOOP2\Converter\obj\Debug\netcoreapp3.1\Converter.AssemblyInfo.cs
+D:\University\LaboratoryOOP2\Converter\obj\Debug\netcoreapp3.1\Converter.csproj.CoreCompileInputs.cache
+D:\University\LaboratoryOOP2\Converter\obj\Debug\netcoreapp3.1\Converter.dll
+D:\University\LaboratoryOOP2\Converter\obj\Debug\netcoreapp3.1\Converter.pdb
+D:\University\LaboratoryOOP2\Converter\obj\Debug\netcoreapp3.1\Converter.genruntimeconfig.cache

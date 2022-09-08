@@ -1,0 +1,14 @@
+D:\University\LaboratoryOOP2\User\bin\Debug\netcoreapp3.1\User.exe
+D:\University\LaboratoryOOP2\User\bin\Debug\netcoreapp3.1\User.deps.json
+D:\University\LaboratoryOOP2\User\bin\Debug\netcoreapp3.1\User.runtimeconfig.json
+D:\University\LaboratoryOOP2\User\bin\Debug\netcoreapp3.1\User.runtimeconfig.dev.json
+D:\University\LaboratoryOOP2\User\bin\Debug\netcoreapp3.1\User.dll
+D:\University\LaboratoryOOP2\User\bin\Debug\netcoreapp3.1\User.pdb
+D:\University\LaboratoryOOP2\User\obj\Debug\netcoreapp3.1\User.csproj.AssemblyReference.cache
+D:\University\LaboratoryOOP2\User\obj\Debug\netcoreapp3.1\User.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\LaboratoryOOP2\User\obj\Debug\netcoreapp3.1\User.AssemblyInfoInputs.cache
+D:\University\LaboratoryOOP2\User\obj\Debug\netcoreapp3.1\User.AssemblyInfo.cs
+D:\University\LaboratoryOOP2\User\obj\Debug\netcoreapp3.1\User.csproj.CoreCompileInputs.cache
+D:\University\LaboratoryOOP2\User\obj\Debug\netcoreapp3.1\User.dll
+D:\University\LaboratoryOOP2\User\obj\Debug\netcoreapp3.1\User.pdb
+D:\University\LaboratoryOOP2\User\obj\Debug\netcoreapp3.1\User.genruntimeconfig.cache

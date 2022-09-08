@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "O+VVjbhAaKst7kWcGu5i6TIjXv5mdd/DqIH14++rjQfQcpM6op+rxbbUIMJtjgOqgzsGtqJyVD5jUk0+VxGWEw==",
+  "success": true,
+  "projectFilePath": "D:\\University\\LaboratoryOOP2\\Address\\Address.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\quick\\.nuget\\packages\\sonaranalyzer.csharp\\8.44.0.52574\\sonaranalyzer.csharp.8.44.0.52574.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,14 @@
+D:\University\LaboratoryOOP2\Address\obj\Debug\netcoreapp3.1\Address.csproj.AssemblyReference.cache
+D:\University\LaboratoryOOP2\Address\obj\Debug\netcoreapp3.1\Address.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\LaboratoryOOP2\Address\obj\Debug\netcoreapp3.1\Address.AssemblyInfoInputs.cache
+D:\University\LaboratoryOOP2\Address\obj\Debug\netcoreapp3.1\Address.AssemblyInfo.cs
+D:\University\LaboratoryOOP2\Address\obj\Debug\netcoreapp3.1\Address.csproj.CoreCompileInputs.cache
+D:\University\LaboratoryOOP2\Address\bin\Debug\netcoreapp3.1\Address.exe
+D:\University\LaboratoryOOP2\Address\bin\Debug\netcoreapp3.1\Address.deps.json
+D:\University\LaboratoryOOP2\Address\bin\Debug\netcoreapp3.1\Address.runtimeconfig.json
+D:\University\LaboratoryOOP2\Address\bin\Debug\netcoreapp3.1\Address.runtimeconfig.dev.json
+D:\University\LaboratoryOOP2\Address\bin\Debug\netcoreapp3.1\Address.dll
+D:\University\LaboratoryOOP2\Address\bin\Debug\netcoreapp3.1\Address.pdb
+D:\University\LaboratoryOOP2\Address\obj\Debug\netcoreapp3.1\Address.dll
+D:\University\LaboratoryOOP2\Address\obj\Debug\netcoreapp3.1\Address.pdb
+D:\University\LaboratoryOOP2\Address\obj\Debug\netcoreapp3.1\Address.genruntimeconfig.cache
